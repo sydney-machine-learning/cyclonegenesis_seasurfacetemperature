@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" modified="2023-10-29T03:28:44.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0AdOUQK23WGFa3QsYKmp" version="22.0.8" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2735" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="v41y6OBTryCtykURmKG0-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-0" target="v41y6OBTryCtykURmKG0-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="345" />
+              <mxPoint x="-440" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-0" target="v41y6OBTryCtykURmKG0-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-0" value="&lt;font color=&quot;#fafafa&quot; style=&quot;font-size: 22px;&quot;&gt;JTWC &lt;br&gt;Cyclone &lt;br&gt;Observations&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-815" y="270" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-1" target="v41y6OBTryCtykURmKG0-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="125" />
+              <mxPoint x="-440" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-1" value="&lt;font color=&quot;#fcfcfc&quot; style=&quot;font-size: 22px;&quot;&gt;NOAA&amp;nbsp;&lt;br&gt;Sea Temperature&lt;br&gt;Obervations&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-790" y="50" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-2" target="v41y6OBTryCtykURmKG0-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-2" value="&lt;font color=&quot;#f0f0f0&quot; style=&quot;font-size: 22px;&quot;&gt;CMIP&amp;nbsp;&lt;br&gt;Sea Temperature&lt;br&gt;Model&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="95" y="370" width="300" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-4" target="v41y6OBTryCtykURmKG0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-4" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 22px;&quot;&gt;Bayesian Quantile&lt;br&gt;Regression Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-355" y="140" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-11" target="v41y6OBTryCtykURmKG0-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="453" />
+              <mxPoint x="20" y="320" />
+              <mxPoint x="245" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-11" value="&lt;font color=&quot;#f5f5f5&quot; style=&quot;font-size: 22px;&quot;&gt;Resampled&lt;br&gt;Cyclone Data&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-330" y="382.5" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-14" value="&lt;font color=&quot;#fafafa&quot; style=&quot;font-size: 22px;&quot;&gt;Posterior Predictive&lt;br&gt;sampler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="155" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-22" value="&lt;font color=&quot;#f0f0f0&quot; style=&quot;font-size: 22px;&quot;&gt;Future Wind&lt;br&gt;Predictions&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="145" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-26" target="v41y6OBTryCtykURmKG0-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Choose Quantile&lt;br&gt;Quantile&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="115" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-14" target="v41y6OBTryCtykURmKG0-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v41y6OBTryCtykURmKG0-33" target="v41y6OBTryCtykURmKG0-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-410" y="590" />
+              <mxPoint x="-410" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v41y6OBTryCtykURmKG0-33" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Bootstrapped&lt;br&gt;Arrival Process&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-780" y="540" width="240" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

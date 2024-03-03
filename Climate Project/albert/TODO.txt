@@ -1,2 +1,0 @@
-- linear model between temp and wind Speed
-- see what's going on with the more extreme cyclones in terms of temperatures in the leadup
